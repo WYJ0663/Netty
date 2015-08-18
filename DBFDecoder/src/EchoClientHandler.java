@@ -36,4 +36,5 @@ public class EchoClientHandler extends ChannelHandlerAdapter {
         cause.printStackTrace();
         ctx.close();
     }
+
 }
