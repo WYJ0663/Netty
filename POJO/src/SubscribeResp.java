@@ -1,7 +1,7 @@
 import java.io.Serializable;
 
 /**
- * Created by Administrator on 2015-08-18.
+ * Created by WYJ on 2015-08-18.
  */
 public class SubscribeResp implements Serializable {
 

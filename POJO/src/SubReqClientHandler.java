@@ -2,7 +2,7 @@ import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
 
 /**
- * Created by WYJ on 2015-08-17.
+ * Created by WYJ on 2015-08-18.
  */
 public class SubReqClientHandler extends ChannelHandlerAdapter {
 

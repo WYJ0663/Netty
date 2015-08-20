@@ -12,7 +12,7 @@ import io.netty.handler.codec.serialization.ObjectEncoder;
 
 
 /**
- * Created by Administrator on 2015-08-17.
+ * Created by WYJ on 2015-08-18.
  */
 public class SubReqClient {
 
