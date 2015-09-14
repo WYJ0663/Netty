@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/FLFDecoder/FLFDecoder.iml" filepath="$PROJECT_DIR$/FLFDecoder/FLFDecoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloNetty/HelloNetty.iml" filepath="$PROJECT_DIR$/HelloNetty/HelloNetty.iml" />
       <module fileurl="file://$PROJECT_DIR$/Http/Http.iml" filepath="$PROJECT_DIR$/Http/Http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My/My.iml" filepath="$PROJECT_DIR$/My/My.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty.iml" filepath="$PROJECT_DIR$/Netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/POJO/POJO.iml" filepath="$PROJECT_DIR$/POJO/POJO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Package/Package.iml" filepath="$PROJECT_DIR$/Package/Package.iml" />
